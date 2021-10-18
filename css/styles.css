@@ -1,0 +1,147 @@
+footer {
+    background-color: rgb(20, 16, 12);
+    color:#D4ECDD;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(255, 244, 227);
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.resturant {
+   height:40%;
+   width: 100%;
+   object-fit: contain;
+}
+
+.topcontainer  {
+    color: white;
+    line-height: 2;
+    padding-bottom: 70px;
+    position: relative;
+    text-align: center;
+    
+ }
+
+ .topcontainercentre{
+   position: absolute;
+   top: 30%;
+   right: 40%;
+ }
+
+ .flexContainerA {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly; 
+ }
+
+ .flexItem {
+   padding: 30px;
+ }
+
+.coffee {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.cakes {
+   border-radius: 50%;
+   height: 100px;
+   width: 100px; 
+}
+
+.salad {
+   border-radius: 50%;
+   height: 100px;
+   width: 100px; 
+}
+
+.navbar {
+
+    background-color: black;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+
+  }
+
+  .nav {
+    float: left;
+  }
+
+  a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  a:hover {
+    background-color: #111;
+  }
+  
+  /*.topcontainer  {
+    color: white;
+    line-height: 2;
+    padding-bottom: 70px;
+    position: relative;
+    text-align: center;
+ }
+
+ .centercontainerA{
+   position: absolute;
+   top: 30%;
+   right: 40%;
+ }
+
+.coffee {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.cakes {
+   border-radius: 50%;
+   height: 100px;
+   width: 100px; 
+}
+
+.salad {
+   border-radius: 50%;
+   height: 100px;
+   width: 100px; 
+}
+
+.navbar {
+
+    background-color: black;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+
+  }
+
+  .nav {
+    float: left;
+  }
+
+  a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  a:hover {
+    background-color: #111;
+  }
+  */
+ 
